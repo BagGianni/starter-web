@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 example text which is in the file
 222
+=======
+example text which is in the file666
+>>>>>>> 55d8505edf78e9b120c2a8fc71b20c3b86aa3005
